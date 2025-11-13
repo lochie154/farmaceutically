@@ -1,3 +1,23 @@
+# Before Editing
+1. Open iTerm 
+2. Type the following and return
+```
+cd desktop/farmaceutically
+```
+3. Type the following and return
+```
+git pull
+```
+4. Now you can edit and add pages in Obsidian
+# After Editing
+5. Go back to iTerm
+6. Type the following and return
+```
+git add .
+git commit -m "[TYPE YOUR MESSAGE HERE]"
+git push origin
+```
+7. After it's complete, close iTerm and check the website after a few minutes for updates. 
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
