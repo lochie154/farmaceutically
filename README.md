@@ -9,17 +9,20 @@ cd desktop/farmaceutically
 git pull
 ```
 # Editing
-5. Open Obsidian vault where farmaceutically is saved on your device
+5. Open Obsidian
+5. If not already open, open the vault where farmaceutically is saved on your device
 6. Only modify, add or delete pages within the "content" folder
 # After Editing
 5. Go back to iTerm
-6. Type the following and return
+6. Type the following and return (replace [TYPE YOUR MESSAGE HERE] with a very brief summary of your update)
 ```
 git add .
 git commit -m "[TYPE YOUR MESSAGE HERE]"
 git push origin
 ```
 7. After it's complete, close iTerm and check the website after a few minutes for updates. 
+
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
