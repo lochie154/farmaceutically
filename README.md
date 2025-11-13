@@ -8,7 +8,9 @@ cd desktop/farmaceutically
 ```
 git pull
 ```
-4. Now you can edit and add pages in Obsidian
+# Editing
+5. Open Obsidian vault where farmaceutically is saved on your device
+6. Only modify, add or delete pages within the "content" folder
 # After Editing
 5. Go back to iTerm
 6. Type the following and return
