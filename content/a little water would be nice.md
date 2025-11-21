@@ -1,3 +1,9 @@
+---
+tags:
+  - fiction
+  - "#explicit"
+---
+
 Corkscrewing through the void towards more void. That’s whats going on up here. After the last class swap happened - what the fuck am I talking about (or to). I feel like garbage. Its not my fault I was born with resources. I shouldn’t have to slum it for a third of my life just to “be fair for all”. There are those with resources and those who are resourceful. A source and a sink. Making me poor isn’t going to change that. I’m still going to be a (selfish, greedy prick) winner. 
 
 My entire like is going to get sucked out of my asshole a month before Sloppy Joe and I make a fool of ourselves of ourselves in front of the masses. Honestly, not sure how I feel about it now.

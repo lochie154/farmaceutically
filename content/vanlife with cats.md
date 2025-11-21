@@ -1,3 +1,7 @@
+---
+tags:
+  - review
+---
 
 #  *chapter 1 - the shakedown*
 *day 1* 
