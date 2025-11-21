@@ -5,7 +5,7 @@ welcome to *farmaceutically*
 
 _far·ma·ceu·ti·cal·ly_
 
-/adverb - adjestive (neologism)
+/adverb - adjective (neologism)
 
 1. to work in accordance with ecological logic: using seasonality, observation, and natural systems as the primary framework for decision-making, design, and problem-solving
 2. to create through resourcefulness: drawing on abundance, waste-streams, bushcraft, and salvage as legitimate materials and methods, prioritising resilience over convenience and craft over consumption
