@@ -3,7 +3,7 @@ title: homepage
 ---
 welcome to *farmaceutically*
 
-_far·ma·ceu·ti·cal·ly_
+*far·ma·ceu·ti·cal·ly*
 
 /adverb - adjective (neologism)
 
