@@ -1,8 +1,9 @@
 ---
 tags:
   - review
+author: lochie
 ---
-
+logging the experience day by day with the cats on the road lets us remember what works, what doesnt and gives us something to smile about when our memories wrinkle up and need a bit of stimulation
 #  *chapter 1 - the shakedown*
 *day 1* 
 left private property in Melbourne in afternoon and drove to Primrose Park near Traralgon. we got bogged in a muddy spot upon arrival to campsite and failed to recover before sunlight. slept uneasy with the cats a bit unsettled in a windy, rainy, muddy environment near a dead tree. 
