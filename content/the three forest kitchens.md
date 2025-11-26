@@ -18,8 +18,8 @@ Her forest recipes come from:
 - biomass models
 
 She simulates everything: water flow, nutrient cycles, carbon balance.
-### **Her carrot is scientific clarity.
-> She wants to understand how ecosystems work and publish accurate models.
+### Her carrot is scientific clarity.
+> **She wants to understand how ecosystems work and publish accurate models.**
 
 Without change, she stays trapped in a silo of equations that miss:
 - cultural timings
@@ -43,7 +43,7 @@ Her forest recipes come from:
 - cultural custodianship
 
 She knows what Country wants because she listens.
-### **Her carrot is recognition and continuity.**
+### Her carrot is recognition and continuity.
 > **A system that respects her knowledge, preserves it, and lets younger generations see its value.**
 
 Without change her knowledge remains:
@@ -70,7 +70,7 @@ He wants food forests that are:
 - reliable
 - low-risk
 - easy to maintain
-### **His carrot is a practical roadmap.**
+### His carrot is a practical roadmap.
 > **Clear options, predictable outcomes, and fewer chances of costly failure.**
   
 Without change he remains stuck in:
@@ -134,7 +134,7 @@ Nothing is excluded.
 This creates the **pantry** — a complete list of ecological, cultural, practical, and economic ingredients.
 
 ---
-# **Step 2 — Let the System Find the Patterns **
+# Step 2 — Let the System Find the Patterns 
 > The system reads all the recipes and notices which ones feel similar,
 > which ones tend to create the same kinds of forests,
 > and which belong to totally different styles.
