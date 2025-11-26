@@ -12,3 +12,5 @@ i have also been collecting practice-first tools to use as grounding benchmarks 
 building from both angles allows me to connect practice to theory and theory to practice -  building a bridge for those sitting on either side to walk across and work together in the future.
 
 at this point i am unsure what i will add to this page about this project, since i have a private vault for this while its being developed. i will try to post updates though for anyone who might be interested. 
+
+trying to communicate this in a way that is clean and simple landed me with a story:[[the three forest kitchens]] that uses ai to present a clean story of three of many perspectives i hope to support with this project. 
